@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "463563996829",
+    "project_id": "multifal-project",
+    "storage_bucket": "multifal-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463563996829:android:7f6a38d95eb91272b95e74",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABOJZTLItfpyYmU_katsSxaa5v7Q3Q258"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
